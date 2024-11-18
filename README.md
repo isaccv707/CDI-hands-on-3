@@ -1,5 +1,5 @@
 # CDI-hands-on-3
-Este repositorio corresponde al proyecto de clasificación utilizando técnicas de minería de datos y aprendizaje automático. Se ha utilizado el algoritmo de **Regresión Logística** para clasificar los datos de dos datasets: **Breast Cancer** y **Water Forecast**.
+Este repositorio corresponde al trabajo de clasificacion inteligente de datos Hands-on-3.
 
 ## Datasets
 
